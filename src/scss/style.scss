@@ -1,0 +1,19 @@
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 100%;
+    min-height: 100vh;
+    // background: #021C1E;
+    background: #211F30;
+
+    color: #fff;
+    font-family: 'Lato', sans-serif;
+    font-size: 1.5rem;
+}
+
+
+@import "default";
+@import "fonts";
+@import "calculator";
