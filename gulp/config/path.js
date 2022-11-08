@@ -2,7 +2,7 @@
 import * as nodePath from 'path';
 const rootFolder = nodePath.basename(nodePath.resolve());
 
-const buildFolder = `./dist`; // Also can be used rootFolder
+const buildFolder = `./docs`; // Also can be used rootFolder
 const srcFolder = `./src`;
 
 export const path = {
